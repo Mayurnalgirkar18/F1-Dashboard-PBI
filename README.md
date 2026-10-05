@@ -9,21 +9,6 @@ The dashboard uses a **dark racing-themed UI** with interactive slicers, cross-f
 
 ---
 
-## 📸 Dashboard Preview
-
-### 🏁 Race Overview
-
-![Race Overview](images/race_overview.png)
-
-### 👨‍🏎️ Drivers Performance
-
-![Drivers Performance](images/drivers_performance.png)
-
-### 📊 Race Analysis
-
-![Race Analysis](images/race_analysis.png)
-
----
 
 # 📑 Dashboard Pages
 
